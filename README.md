@@ -3,7 +3,7 @@ Uber Visualization Charts - react-vis examples
 
 ## Istallation:
 
-* Clone or download Frontend of SenseClub website: (git clone https://github.com/kirils/react-vis-examples.git).
+* Clone or download project: (git clone https://github.com/kirils/react-vis-examples.git).
 * Go to your local directory where download or clone repository.
 * Use command `cd ./react-vis-examples` to enter in the directory.
 * Install yarn.
