@@ -4,7 +4,7 @@ Uber Visualization Charts - react-vis examples
 ## Istallation:
 
 * Clone or download project: (git clone https://github.com/kirils/react-vis-examples.git).
-* Go to your local directory where download or clone repository.
+* Go to your local directory where downloaded or cloned repository.
 * Use command `cd ./react-vis-examples` to enter in the directory.
 * Install yarn.
 * Use command `yarn install` to install all modules from `package.json` file.
